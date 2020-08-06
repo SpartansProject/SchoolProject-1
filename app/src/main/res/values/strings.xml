@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartHealth</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="next">Next</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

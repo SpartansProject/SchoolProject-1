@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "518754624785",
+    "firebase_url": "https://smarthealth-bc4c3.firebaseio.com",
+    "project_id": "smarthealth-bc4c3",
+    "storage_bucket": "smarthealth-bc4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518754624785:android:76a2828da1a48850ad18b0",
+        "android_client_info": {
+          "package_name": "com.example.SmartHealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518754624785-ppgvp7aj3pt62j2cvkjb6cf50mf42dsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBsYA55qiqtxYqsAfq122xz3GGtOvQEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518754624785-ppgvp7aj3pt62j2cvkjb6cf50mf42dsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518754624785:android:2f7f32f808383c7ead18b0",
+        "android_client_info": {
+          "package_name": "com.example.schoolproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518754624785-jg3jdgtv401ft5ltduvq1rjg6temh981.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolproject",
+            "certificate_hash": "2bf1ddc9a387b50d88c0ac85311d2ed8bf1a7f53"
+          }
+        },
+        {
+          "client_id": "518754624785-ppgvp7aj3pt62j2cvkjb6cf50mf42dsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBsYA55qiqtxYqsAfq122xz3GGtOvQEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518754624785-ppgvp7aj3pt62j2cvkjb6cf50mf42dsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
